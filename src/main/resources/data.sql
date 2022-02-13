@@ -1,0 +1,3 @@
+INSERT INTO EMPRESA(nome, email, empresa,cnpj) VALUES('Diego João Nascimento', 'diegojoaonascimento@consorciobcv.com.br', 'META','43.319.660/0001-42');
+INSERT INTO EMPRESA(nome, email, empresa,cnpj) VALUES('Guilherme Raimundo Aragão', 'guilhermeraimundoaragao@mpv.org.br', 'INSTAGRAM','03.098.191/0001-64');
+INSERT INTO EMPRESA(nome, email, empresa,cnpj) VALUES('Anderson César Santos', 'andersoncesarsantos-75@oas.com', 'WHATSAPP','56.435.753/0001-84');
